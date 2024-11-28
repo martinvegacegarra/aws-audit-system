@@ -1,6 +1,6 @@
 # AWS Audit System
 
-Un sistema web completo para auditar y reportar recursos de AWS.
+Un sistema web completo para auditar y reportar recursos de AWS. Este sistema proporciona una interfaz moderna y fácil de usar para gestionar y monitorear todos los recursos de AWS en una cuenta.
 
 ## Características
 
